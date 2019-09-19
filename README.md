@@ -1,1 +1,1 @@
-# Rotating-SignIn-SignUp-Card
+# A single page HTML-CSS website template
