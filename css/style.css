@@ -1,0 +1,105 @@
+#MenuBar{
+    width: 100%;
+    height:550px;
+    background-image: url(../img/img-1.jpg);
+    background-size: 100% 100%;
+}
+
+nav ul li a{
+    
+    text-transform: uppercase;
+    font-family: Raleway;
+    font-size: 13px;
+}
+
+
+
+.FeatureText{
+    font-family: Raleway;
+    font-size: 12px;    
+}
+
+.bannear{
+    width: 75%;
+    margin: 0 auto;
+}
+
+.our-mt-top{
+    margin-top: 100px !important;
+}
+
+.imageSige{
+        max-height: 100px !important;
+        max-width: 100px !important;
+    }
+
+
+
+
+
+/*      ScrollSpy           */
+
+#scrollspy{
+     position: relative;
+     height: 600px;
+     overflow-y: scroll;
+}
+
+
+/*      @media           */
+
+@media only screen and (max-width: 575px){
+
+    .cornerRound{
+        border-radius: 15px !important;
+        margin-top: 5px !important;
+    }
+    
+    
+    .resumePadding{
+        padding-top:140px !important;
+    }
+    .resumePadding_1{
+        padding-top:100px !important;
+    }
+    .imageMargin{
+      margin-left: 0 !important; 
+      margin-top: 15px !important;
+    }
+    .signUpMargin{
+        margin: 5px 0 !important;
+    }
+
+}
+
+@media only screen and (max-width: 1050px){
+/*
+    .fontSize{
+        font-size: 100%
+    }
+*/
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
